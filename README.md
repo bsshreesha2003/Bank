@@ -20,7 +20,7 @@ This is a Django-based web application for registering customers with ICICI Bank
 ### 1. Clone the Repository
 
 ```sh
-git clone [https://github.com/Final_FSD.git](https://github.com/bsshreesha2003/ICICI.git)
+git clone [https://github.com/Final_FSD.git](https://github.com/bsshreesha2003/Bank.git)
 cd Final_FSD
 
 python -m venv icici
